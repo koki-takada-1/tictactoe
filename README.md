@@ -1,2 +1,2 @@
 # tictactoe
-pythonで実装した三目並べです。
+pythonで実装した三目並べ
